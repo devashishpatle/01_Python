@@ -1,2 +1,2 @@
 # 01_Python
-water jug problem uing python
+water jug problem using python
